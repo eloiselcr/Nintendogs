@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/creation.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="../css/inscription.css">
+    <title>NintenWish - Inscription</title>
 </head>
 <body>
 <div class="center">
@@ -81,10 +81,10 @@
       
     </label>
     <button class="login-button">Connexion</button>
-    <button class="login-button">création</button>
+    <button class="login-button">Inscription</button>
   </div>
   
   
 </body>
-<script src='../js/creation.js'></script>
+<script src='../js/inscription.js'></script>
 </html>
