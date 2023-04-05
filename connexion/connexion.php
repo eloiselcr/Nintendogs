@@ -80,7 +80,7 @@
       <button class="password-button">Afficher</button>
     </label>
     <button class="login-button">Connexion</button>
-    <button class="login-button">S'inscrire</button>
+    <a href="../inscription\inscription.php" class="login-button">s'inscrire</a>
   </div>
   
   

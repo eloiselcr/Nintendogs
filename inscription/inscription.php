@@ -77,15 +77,15 @@
     <label>
       <div class="fa fa-commenting"></div>
       <input class="password" type="password" autocomplete="off" placeholder="Mot de passe"/>
-      <input class="password" type="password" autocomplete="off" placeholder="confirmer MDP"/>
+      <input class="password" type="password" autocomplete="off" placeholder="confirmer MDP">
       
     </label>
-    <button class="login-button">Connexion</button>
+   <a href="../connexion\connexion.php" class="login-button">connexion</a>
     <button class="login-button">Inscription</button>
-========
-    <a href="../../connexion/html/connexion.html" class="login-button">connexion</a>
+
+    
     <button class="login-button">création</button>
->>>>>>>> 8e0f11770a2443f10ee4787f909f4ef88f27b406:inscription/html/creation.html
+
   </div>
   
   
