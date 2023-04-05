@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/style.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="connexion.css">
+    <title>NintenWish - Connexion</title>
 </head>
 <body>
 <div class="center">
@@ -72,15 +72,15 @@
   <div class="login">
     <label>
       <div class="fa fa-phone"></div>
-      <input class="username" type="text" autocomplete="on" placeholder="login"/>
+      <input class="username" type="text" autocomplete="on" placeholder="Login"/>
     </label>
     <label>
       <div class="fa fa-commenting"></div>
       <input class="password" type="password" autocomplete="off" placeholder="Mot de passe"/>
-      <button class="password-button">afficher</button>
+      <button class="password-button">Afficher</button>
     </label>
-    <button class="login-button">connexion</button>
-    <a href="../../création/html/creation.html" class="login-button">création</a>
+    <button class="login-button">Connexion</button>
+    <button class="login-button">S'inscrire</button>
   </div>
   
   
