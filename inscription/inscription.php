@@ -90,5 +90,5 @@
   
   
 </body>
-<script src='../js/inscription.js'></script>
+<script src='inscription.js'></script>
 </html>

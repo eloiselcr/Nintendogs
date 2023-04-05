@@ -85,5 +85,5 @@
   
   
 </body>
-<script src='../js/connexion.js'></script>
+<script src='connexion.js'></script>
 </html>
